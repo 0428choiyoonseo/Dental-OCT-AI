@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.dcm
+*.npy
+*.npz
+dataset/
+runs/
